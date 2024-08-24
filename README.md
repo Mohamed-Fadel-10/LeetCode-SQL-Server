@@ -1,1 +1,1 @@
-# LeetCode-SQL-Server
+LeetCode-Solutions-SqlServer
