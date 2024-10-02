@@ -26,7 +26,7 @@
 - `product_id` is the primary key for this table, ensuring unique product records.
 - Each row represents the name of a product.
 
-### Problem Statement
+### Problem Statement :
 
 Write an SQL query to select the `product_id`, the `first_year` (the first year the product was sold), `quantity`, and `price` for the first year of every product sold.
 
