@@ -36,7 +36,7 @@ Return the result in any order.
 
 **Input:**
 
-Sales table:
+Sales table :
 
 | sale_id | product_id | year | quantity | price |
 |---------|------------|------|----------|-------|
@@ -52,7 +52,7 @@ Product table:
 | 200        | Apple        |
 | 300        | Samsung      |
 
-**Output:**
+**Output :**
 
 | product_id | first_year | quantity | price |
 |------------|------------|----------|-------|
